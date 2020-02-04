@@ -1,8 +1,0 @@
-- 文件类型声明（<!DOCTYPE>）仅有一型：`<!DOCTYPE HTML>`
-- 新的解析顺序：不再基于 SGML
-- 新的元素：section，video，progress， nav，meter，time，aside，canvas，command，datalist，details，embed，figcaption，figure，footer，header，hgroup，keygen，mark，output，rp，rt，ruby，source，summary，wbr
-- input 元素的新类型：date，email，url
-- 新的属性：ping（用于 a 与 area），charset（用于 meta），async（用于 script）
-- 全域属性：id，tabindex，repeat
-- 新的全域属性：contenteditable，contextmenu，draggable，dropzone，hidden，spellcheck
-- 移除元素：acronym，applet，basefont，big，center，dir，font，frame，frameset，isindex，noframes，strike，tt
