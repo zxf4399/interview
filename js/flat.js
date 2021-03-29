@@ -1,4 +1,5 @@
 // 基础版本
+
 function myFlat(arr) {
   let res = []
 
@@ -21,7 +22,27 @@ function myFlat2(arr) {
   }, [])
 }
 
+// 栈实现
+
+function myFlat3(arr) {
+  const res = []
+  const stack = [].concat(arr)
+
+  while (stack.length) {
+    const val = stack.pop()
+
+    if (Array.isArray(val)) {
+      stack.push(...val)
+    } else {
+      res.unshift(val)
+    }
+  }
+
+  return res
+}
+
 const animals = ['🐷', ['🐶', '🐂'], ['🐎', ['🐑', ['🐲']], '🐛']]
 
 console.log(myFlat(animals))
 console.log(myFlat2(animals))
+console.log(myFlat3(animals))
