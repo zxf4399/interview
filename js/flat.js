@@ -41,8 +41,20 @@ function myFlat3(arr) {
   return res
 }
 
+// reduce + 递归
+
+function myFlat4(arr, number = 1) {
+  return number > 0
+    ? arr.reduce((pre, cur) => {
+        return pre.concat(Array.isArray(cur) ? myFlat4(cur, number - 1) : cur)
+      }, [])
+    : arr.slice()
+}
+
 const animals = ['🐷', ['🐶', '🐂'], ['🐎', ['🐑', ['🐲']], '🐛']]
 
 console.log(myFlat(animals))
 console.log(myFlat2(animals))
 console.log(myFlat3(animals))
+console.log(myFlat4(animals, 1))
+console.log(myFlat4(animals, Infinity))
