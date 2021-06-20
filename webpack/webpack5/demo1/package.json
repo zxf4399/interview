@@ -11,8 +11,5 @@
     "mini-css-extract-plugin": "^1.6.0",
     "webpack": "^5.39.1",
     "webpack-cli": "^4.7.2"
-  },
-  "dependencies": {
-    "lodash": "^4.17.21"
   }
 }

@@ -8,10 +8,12 @@ module.exports = {
   },
   output: {
     clean: true,
+    // filename: '[name].[chunkhash].bundle.js',
     filename: '[name].[contenthash].bundle.js',
   },
   plugins: [
     new MiniCssExtractPlugin({
+      // filename: '[chunkhash].css',
       filename: '[contenthash].css',
     }),
   ],
