@@ -1,0 +1,16 @@
+{
+  "name": "demo1",
+  "version": "1.0.0",
+  "private": "true",
+  "scripts": {
+    "build": "webpack"
+  },
+  "author": "zxf4399",
+  "license": "MIT",
+  "devDependencies": {
+    "file-loader": "^6.2.0",
+    "url-loader": "^4.1.1",
+    "webpack": "^4.46.0",
+    "webpack-cli": "^3.3.12"
+  }
+}
