@@ -6,4 +6,4 @@
 - [实现 call、bind、apply](https://github.com/zxf4399/interview/issues/10)
 - [实现模板字符串替换](https://github.com/zxf4399/interview/issues/16)
 - [实现 Promise.allSettled](https://github.com/zxf4399/interview/issues/20)
-- [请说说 commonjs 和 ES 模块的差异有那些](https://github.com/zxf4399/interview/issues/25)
+- [请说说 commonjs 模块和 ES 模块的差异有那些](https://github.com/zxf4399/interview/issues/25)
