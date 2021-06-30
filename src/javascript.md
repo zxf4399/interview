@@ -8,3 +8,4 @@
 - [实现 Promise.allSettled](https://github.com/zxf4399/interview/issues/20)
 - [请说说 commonjs 模块和 ES 模块的差异有那些](https://github.com/zxf4399/interview/issues/25)
 - [promise 跟 async await 的区别，使用场景](https://github.com/zxf4399/interview/issues/26)
+- [作用域的理解](https://github.com/zxf4399/interview/issues/28)
