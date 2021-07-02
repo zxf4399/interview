@@ -12,3 +12,4 @@
 - [234. 回文链表](https://github.com/zxf4399/interview/issues/32)
 - [461. 汉明距离](https://github.com/zxf4399/interview/issues/33)
 - [104. 二叉树的最大深度](https://github.com/zxf4399/interview/issues/34)
+- [283. 移动零](https://github.com/zxf4399/interview/issues/35)
