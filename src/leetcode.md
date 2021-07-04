@@ -21,3 +21,4 @@
 - [236. 二叉树的最近公共祖先](https://github.com/zxf4399/interview/issues/41)
 - [108. 将有序数组转换为二叉搜索树](https://github.com/zxf4399/interview/issues/42)
 - [450. 删除二叉搜索树中的节点](https://github.com/zxf4399/interview/issues/43)
+- [144. 二叉树的前序遍历](https://github.com/zxf4399/interview/issues/44)
