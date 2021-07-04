@@ -15,3 +15,4 @@
 - [283. 移动零](https://github.com/zxf4399/interview/issues/35)
 - [141. 环形链表](https://github.com/zxf4399/interview/issues/36)
 - [160. 相交链表](https://github.com/zxf4399/interview/issues/37)
+- [350. 两个数组的交集 II](https://github.com/zxf4399/interview/issues/38)
