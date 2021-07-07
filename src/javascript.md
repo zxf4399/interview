@@ -9,4 +9,3 @@
 - [请说说 commonjs 模块和 ES 模块的差异有那些](https://github.com/zxf4399/interview/issues/25)
 - [promise 跟 async await 的区别，使用场景](https://github.com/zxf4399/interview/issues/26)
 - [作用域的理解](https://github.com/zxf4399/interview/issues/28)
-- [['1', '2', '3'].map(parseInt) what & why](https://github.com/Advanced-Frontend/Daily-Interview-Question/issues/4)
