@@ -26,3 +26,4 @@
 - [100. 相同的树](https://github.com/zxf4399/interview/issues/47)
 - [199.二叉树的右视图](https://github.com/zxf4399/interview/issues/48)
 - [404. 左叶子之和](https://github.com/zxf4399/interview/issues/51)
+- [112. 路径总和](https://github.com/zxf4399/interview/issues/52)
