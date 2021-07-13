@@ -31,3 +31,4 @@
 - [437. 路径总和 III](https://github.com/zxf4399/interview/issues/54)
 - [129. 求根节点到叶节点数字之和](https://github.com/zxf4399/interview/issues/59)
 - [110. 平衡二叉树](https://github.com/zxf4399/interview/issues/60)
+- [230. 二叉搜索树中第 K 小的元素](https://github.com/zxf4399/interview/issues/60)
